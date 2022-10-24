@@ -10,7 +10,7 @@ A. Regresion general
 
 Con los datos provenientes del DGT en el que se obtienen las matriculaciones mensuales a nivel de codigo postal. Se hace el siguiente analisis en el que se contrasta la evolucion de las matriculacion de los vehiculos en general y la de los vehiculos electricos. 
 
-https://github.com/veromejiaj/Trabajo-Final/blob/main/Regresion.ipynb
+https://github.com/veromejiaj/DataScience_Trabajo-Final/blob/main/Regresion.ipynb
 
 B. Cluster por comarcas - series temporales 
 
@@ -18,4 +18,4 @@ Se continua con la identificacion de cluster en relacion a los datos de las matr
 
 Una vez realizado los cluster, se incorporan los datos socioeconomicos del IDESCAT. Así, se contrasta los cluster con datos de renta, densidad y población. 
 
-https://github.com/veromejiaj/Trabajo-Final/blob/main/Cluster%20catalu%C3%B1a.ipynb
+https://github.com/veromejiaj/DataScience_Trabajo-Final/blob/main/Cluster%20catalu%C3%B1a.ipynb
